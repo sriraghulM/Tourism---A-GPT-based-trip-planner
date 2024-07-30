@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "b4de6afd-920e-466a-abb7-122eca8361e7",
+      "name": "hukum",
+      "email": "hcgupta@cstech.in",
+      "phoneNumber": "3456789123",
+      "Designation": "HR",
+      "gender": "Male",
+      "Course": "MCA",
+      "Create-date": "13-feb-21",
+      "password": "$2a$10$BCCHBon9TQiM/FCsho7xXe9myPGPIZKnoewogEm871IgEjh7cEue."
+    },
+    {
+      "id": "ff10",
+      "name": "deedpool",
+      "email": "deadpool@gmail.com",
+      "address": "Anand nagar,Hosur,635126",
+      "phoneNumber": "7358891302",
+      "password": "$2a$10$vsV6SiZ.HzNnTPaz65pnCe62hHEDupaqjIdk7PSEQBIPNNdNfNcua"
+    },
+    {
+      "id": "e9b6",
+      "name": "Sri",
+      "email": "dance@gmail.com",
+      "address": "Anand nagar,Hosur,635126",
+      "phoneNumber": "7358891302",
+      "password": "$2a$10$QR7gHHSxBnpKpJ.lsFIl1.AGYe640Vd5AAqXHHES4LGNV/frrguo6"
+    },
+    {
+      "id": "80b4",
+      "name": "Sriraghul",
+      "email": "sriraghul0777@gmail.com",
+      "address": "6/652-23,Anand nagar,Hosur,635126",
+      "phoneNumber": "7358891302",
+      "password": "$2a$10$Bp8VIKMhCEJ3ptZGOSghJ.2D.HLeMv3N4FKgHFJp4.CKENM2ubPGS"
+    }
+  ]
+}
